@@ -1,0 +1,7 @@
+{
+  "name": "Retro Tetris & AI Coach",
+  "description": "A modern React port of the classic Tetris simulation, featuring Web Serial support for Arduino controllers and a Gemini-powered AI coach.",
+  "requestFramePermissions": [
+    "serial"
+  ]
+}
